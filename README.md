@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohitb1107
 - 👀 I’m interested in Coding and Technology.
-- 🌱 I’m currently learning Full-Stack Web Developer.
+- 🌱 I’m currently learning Full-Stack Web Develoment.
 - 💞️ I’m looking to Work in IT Company.
 - 📫 You can reach me on Linked In - 
 - 💞️ https://www.linkedin.com/in/rohit-bagadi-11072003/
