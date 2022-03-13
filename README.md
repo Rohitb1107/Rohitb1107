@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **HTML, CSS, JavaScript and MERN Stack**
 - 📫 How to reach me **stylishrb711@gmail.com**
-- 👯 I’m looking Web Developer Job.
 - 💬 I’m from Dholpur, Rajasthan India.
+- 👯 I’m looking for Web Developer Job.
+
 
 <h2 align="left">Let's Connect:</h2>
 <p align="left">
