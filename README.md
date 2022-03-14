@@ -1,5 +1,5 @@
 ![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
-<h1 align="center">Hi 👋, I'm Rohit Bagadi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohit Bagadi</h1>
 <h3 align="center">A passionate full stack web developer based in India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
