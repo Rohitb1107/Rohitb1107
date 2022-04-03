@@ -1,18 +1,18 @@
-![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohit Bagadi</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohit Bagadi</h1>
+
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ff54b2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+</p>
+
+<h2 align="center">About me: 👨🏽‍💻</h2>
 <h3 align="center">A full-stack web developer with a vast array of knowledge in many different front-end and back-end languages.  Excited about building interactive and user-friendly websites. Looking for a role as a full-stack developer in an organization that promotes long-term learning and growth.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱  I’m Trained & Skilled from Masai School as a Full-Stack Web Developer.                                                     
-
 - 💬  Ask me about **HTML, CSS, JavaScript and MERN Stack**
-- 
 - 📫  How to reach me **stylishrb711@gmail.com**
-- 
 - 💬  I’m from Dholpur, Rajasthan India.
-- 
 - 👯  I’m looking for Web Developer Job.
-- 
 - 👯  Checkout my portfolio in bio.
 
 
