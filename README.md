@@ -1,7 +1,7 @@
 <h1 align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 𝙄'𝙢 𝙍𝙤𝙝𝙞𝙩 𝘽𝙖𝙜𝙖𝙙𝙞</h1>
 
 <p align="center">
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ff54b2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ff54b2&size=25&lines=𝙒𝙚𝙡𝙘𝙤𝙢𝙚+𝙩𝙤+𝙢𝙮+𝙂𝙞𝙩𝙃𝙪𝙗+𝙥𝙧𝙤𝙛𝙞𝙡𝙚!;𝙄'𝙢+𝙖+𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠+𝙬𝙚𝙗+𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧.;𝙄+𝙡𝙤𝙫𝙚+𝙘𝙤𝙙𝙞𝙣𝙜+𝙖𝙣𝙙+𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮." /></𝘢>
 </p>
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
