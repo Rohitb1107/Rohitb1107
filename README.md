@@ -28,13 +28,21 @@
 
 
 <h2 align="center">👷 Stats so far</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitb1107&show_icons=true&locale=en&layout=compact&theme=radical" alt="rohitb1107" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitb1107&show_icons=true&locale=en&layout=compact&theme=radical" alt="rohitb1107" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitb1107&theme=radical" alt="rohitb1107" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitb1107&theme=radical" alt="rohitb1107" /></p> -->
+
+<div align="center">
+  <a href="https://github.com/rohitb1107">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rohitb1107&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitb1107&layout=compact&langs_count=7&theme=aura_dark"/>
+  </div>
+  <hr
+  ---
 
 ![snake gif](https://github.com/Rohitb1107/Rohitb1107/blob/output/github-contribution-grid-snake.gif)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitb1107&show_icons=true&locale=en&theme=radical" alt="rohitb1107" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitb1107&show_icons=true&locale=en&theme=radical" alt="rohitb1107" /></p> -->
 
 <p><img align="center" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="rohitb1107" /></p>
 
