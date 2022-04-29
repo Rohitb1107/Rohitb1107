@@ -1,5 +1,8 @@
 <!-- Name section -->
-<h1 align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 𝙄'𝙢 𝙍𝙤𝙝𝙞𝙩 𝘽𝙖𝙜𝙖𝙙𝙞</h1>
+<p align="left">
+  <img alt="" style="{max-height: 0px}" src="https://i.ibb.co/WVW5z9h/Blue-Minimalist-Nightmare-Ninja-Gaming-Linkedin-Banner.jpg">
+</p>
+<!-- <h1 align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 𝙄'𝙢 𝙍𝙤𝙝𝙞𝙩 𝘽𝙖𝙜𝙖𝙙𝙞</h1> -->
 
 <!-- Moving title section -->
 <p align="center">
