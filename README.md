@@ -4,14 +4,20 @@
 </p>
 <!-- <h1 align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 𝙄'𝙢 𝙍𝙤𝙝𝙞𝙩 𝘽𝙖𝙜𝙖𝙙𝙞</h1> -->
 
+
+
 <!-- Moving title section -->
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ff54b2&size=25&lines=𝙒𝙚𝙡𝙘𝙤𝙢𝙚+𝙩𝙤+𝙢𝙮+𝙂𝙞𝙩𝙃𝙪𝙗+𝙥𝙧𝙤𝙛𝙞𝙡𝙚!;𝙄'𝙢+𝙖+𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠+𝙬𝙚𝙗+𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧.;𝙄+𝙡𝙤𝙫𝙚+𝙘𝙤𝙙𝙞𝙣𝙜+𝙖𝙣𝙙+𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮." /></𝘢>
 </p>
 
+
+
 <!-- About section -->
 <h2 align="center">𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 <h3 align="center">𝘈 𝘧𝘶𝘭𝘭-𝘴𝘵𝘢𝘤𝘬 𝘸𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘸𝘪𝘵𝘩 𝘢 𝘷𝘢𝘴𝘵 𝘢𝘳𝘳𝘢𝘺 𝘰𝘧 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦 𝘪𝘯 𝘮𝘢𝘯𝘺 𝘥𝘪𝘧𝘧𝘦𝘳𝘦𝘯𝘵 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘢𝘯𝘥 𝘣𝘢𝘤𝘬-𝘦𝘯𝘥 𝘭𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴. 𝘌𝘹𝘤𝘪𝘵𝘦𝘥 𝘢𝘣𝘰𝘶𝘵 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘪𝘯𝘵𝘦𝘳𝘢𝘤𝘵𝘪𝘷𝘦 𝘢𝘯𝘥 𝘶𝘴𝘦𝘳-𝘧𝘳𝘪𝘦𝘯𝘥𝘭𝘺 𝘸𝘦𝘣𝘴𝘪𝘵𝘦𝘴. 𝘓𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘢 𝘳𝘰𝘭𝘦 𝘢𝘴 𝘢 𝘧𝘶𝘭𝘭-𝘴𝘵𝘢𝘤𝘬 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘪𝘯 𝘢𝘯 𝘰𝘳𝘨𝘢𝘯𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘵𝘩𝘢𝘵 𝘱𝘳𝘰𝘮𝘰𝘵𝘦𝘴 𝘭𝘰𝘯𝘨-𝘵𝘦𝘳𝘮 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘨𝘳𝘰𝘸𝘵𝘩.</h3>
+
+
 
 <!-- Social media icons sections -->
 <div>&nbsp;</div>
@@ -25,6 +31,8 @@
 <a href="https://www.instagram.com/the_rohitb_11" target="_blank"></a>
 </div>
 
+
+
 <!-- Languages and Tools section -->
 <div>&nbsp;</div>
 <div align="center">
@@ -34,17 +42,24 @@
  </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+
 <!-- Stats section -->
 <h2 align="center">𝙎𝙩𝙖𝙩𝙨 𝙨𝙤 𝙛𝙖𝙧 <img align ='center' src='https://lukonet.com/app/uploads/2014/09/statistic-loop.gif' width = '32px'></h2>
 <div align="center">
   <a href="https://github.com/rohitb1107">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rohitb1107&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitb1107&layout=compact&langs_count=7&theme=aura_dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitb1107&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rohitb1107&show_icons=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitb1107&layout=compact&langs_count=7&theme=aura_dark"/> -->
   </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
+  
+  
 <!-- Snake grid section -->
 ![snake gif](https://github.com/Rohitb1107/Rohitb1107/blob/output/github-contribution-grid-snake.gif)
 
+  
+  
 <!-- Last banner -->
 <p><img align="center" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="rohitb1107" /></p>
