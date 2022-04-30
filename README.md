@@ -57,7 +57,7 @@
   
   
 <!-- Snake grid section -->
-![snake gif](https://github.com/Rohitb1107/Rohitb1107/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Rohitb1107/Rohitb1107/blob/output/github-contribution-grid-snake.svg)
 
   
   
