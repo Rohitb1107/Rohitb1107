@@ -23,12 +23,9 @@
 <div>&nbsp;</div>
 <div align="center">
 <a href="https://twitter.com/rohitb1107" target="_blank"><img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" /></a>
-<img height="55" alt="Rohit Bagadi | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
-<a href="https://linkedin.com/in/rohit-bagadi-11072003" target="_blank"></a> 
-<img height="55" alt="Rohit Bagadi | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
-<a href="https://www.facebook.com/rohitbagadi11" target="_blank"></a>
-<img height="55" alt="Rohit Bagadi | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
-<a href="https://www.instagram.com/the_rohitb_11" target="_blank"></a>
+<a href="https://linkedin.com/in/rohit-bagadi-11072003" target="_blank"><img height="55" alt="Rohit Bagadi | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/></a> 
+<a href="https://www.facebook.com/rohitbagadi11" target="_blank"><img height="55" alt="Rohit Bagadi | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" /></a>
+<a href="https://www.instagram.com/the_rohitb_11" target="_blank"><img height="55" alt="Rohit Bagadi | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" /></a>
 </div>
 
 
