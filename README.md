@@ -44,10 +44,9 @@
 <!-- Stats section -->
 <h2 align="center">𝙎𝙩𝙖𝙩𝙨 𝙨𝙤 𝙛𝙖𝙧 <img align ='center' src='https://lukonet.com/app/uploads/2014/09/statistic-loop.gif' width = '32px'></h2>
 <div align="center">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitb1107&layout=compact&langs_count=7&theme=aura_dark"/>
   <a href="https://github.com/rohitb1107">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitb1107&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rohitb1107&show_icons=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
-<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitb1107&layout=compact&langs_count=7&theme=aura_dark"/> -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rohitb1107&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=radical"/>
   </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
