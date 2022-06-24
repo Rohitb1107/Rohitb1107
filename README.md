@@ -42,6 +42,7 @@
 
 
 <!-- Stats section -->
+<!-- GitHub stats -->
 <h2 align="center">𝙎𝙩𝙖𝙩𝙨 𝙨𝙤 𝙛𝙖𝙧 <img align ='center' src='https://lukonet.com/app/uploads/2014/09/statistic-loop.gif' width = '32'></h2>
 <div align="center">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitb1107&layout=compact&langs_count=7&theme=algolia "/>
