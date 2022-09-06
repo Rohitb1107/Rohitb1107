@@ -1,4 +1,4 @@
-<!-- Name section -->
+<!-- Name sectio -->
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="https://i.ibb.co/WVW5z9h/Blue-Minimalist-Nightmare-Ninja-Gaming-Linkedin-Banner.jpg">
 </p>
