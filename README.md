@@ -40,6 +40,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+<a href="https://app.daily.dev/rohitbagadi"><img src="https://api.daily.dev/devcards/v2/H3WhBVsIDACWWNBe3ZoVg.png?type=default&r=7dl" width="356" alt="Rohit Bagadi's Dev Card"/></a>
+
 
 <!-- GitHub stats -->
 <h2 align="center">𝙎𝙩𝙖𝙩𝙨 𝙨𝙤 𝙛𝙖𝙧 <img align ='center' src='https://lukonet.com/app/uploads/2014/09/statistic-loop.gif' width = '32'></h2>
