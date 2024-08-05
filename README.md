@@ -27,37 +27,8 @@
 <a href="https://www.instagram.com/the.rohitb.11" target="_blank"><img height="55" alt="Rohit Bagadi | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" /></a>
 </div>
 
-
-
-<!-- Languages and Tools section -->
-<div>&nbsp;</div>
-<div align="center">
-<img height="65" alt="Ossama Mehmood | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
-<div>&nbsp;</div>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
- </div>
- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <a href="https://app.daily.dev/rohitbagadi"><img src="https://api.daily.dev/devcards/v2/H3WhBVsIDACWWNBe3ZoVg.png?type=default&r=7dl" width="356" alt="Rohit Bagadi's Dev Card"/></a>
 
-
-<!-- GitHub stats -->
-<h2 align="center">𝙎𝙩𝙖𝙩𝙨 𝙨𝙤 𝙛𝙖𝙧 <img align ='center' src='https://lukonet.com/app/uploads/2014/09/statistic-loop.gif' width = '32'></h2>
-<div align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitb1107&layout=compact&langs_count=7&theme=algolia"/>
-  <a href="https://github.com/rohitb1107">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rohitb1107&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=algolia"/>
-  </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
-  
-  
-<!-- Snake grid section -->
-![Snake animation](https://github.com/Rohitb1107/Rohitb1107/blob/output/github-contribution-grid-snake.svg)
-
-  
-  
-<!-- Last banner -->
-<p><img align="center" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="rohitb1107" /></p>
