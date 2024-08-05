@@ -36,6 +36,6 @@
 
 <div align="center">
   <a href="https://app.daily.dev/rohitbagadi">
-    <img src="https://api.daily.dev/devcards/v2/H3WhBVsIDACWWNBe3ZoVg.png?type=wide&r=7dl" width="652" alt="Rohit Bagadi's Dev Card" />
+    <img src="https://api.daily.dev/devcards/v2/H3WhBVsIDACWWNBe3ZoVg.png?type=wide&r=7dl" width="500" alt="Rohit Bagadi's Dev Card" />
   </a>
 </div>
