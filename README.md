@@ -1,41 +1,96 @@
-<!-- Name section -->
-<p align="left">
-  <img alt="Banner" src="https://i.ibb.co/WVW5z9h/Blue-Minimalist-Nightmare-Ninja-Gaming-Linkedin-Banner.jpg">
-</p>
+<h1 align="center">Rohit Bagadi</h1>
 
-<!-- Moving title section -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ff54b2&size=25&lines=𝙒𝙚𝙡𝙘𝙤𝙢𝙚+𝙩𝙤+𝙢𝙮+𝙂𝙞𝙩𝙃𝙪𝙗+𝙥𝙧𝙤𝙛𝙞𝙡𝙚!;𝙄'𝙢+𝙖+𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠+𝙬𝙚𝙗+𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧.;𝙄+𝙡𝙤𝙫𝙚+𝙘𝙤𝙙𝙞𝙣𝙜+𝙖𝙣𝙙+𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮." />
-  </a>
+  Full-Stack Web Developer · 3+ Years Experience · MERN Stack
 </p>
 
-<!-- About section -->
-<h2 align="center">𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="40"></h2>
-<h3 align="center">𝘈 𝘧𝘶𝘭𝘭-𝘴𝘵𝘢𝘤𝘬 𝘸𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘸𝘪𝘵𝘩 𝘢 𝘷𝘢𝘴𝘵 𝘢𝘳𝘳𝘢𝘺 𝘰𝘧 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦 𝘪𝘯 𝘮𝘢𝘯𝘺 𝘥𝘪𝘧𝘧𝘦𝘳𝘦𝘯𝘵 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘢𝘯𝘥 𝘣𝘢𝘤𝘬-𝘦𝘯𝘥 𝘭𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴. 𝘌𝘹𝘤𝘪𝘵𝘦𝘥 𝘢𝘣𝘰𝘶𝘵 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘪𝘯𝘵𝘦𝘳𝘢𝘤𝘵𝘪𝘷𝘦 𝘢𝘯𝘥 𝘶𝘴𝘦𝘳-𝘧𝘳𝘪𝘦𝘯𝘥𝘭𝘺 𝘸𝘦𝘣𝘴𝘪𝘵𝘦𝘴.</h3>
+<p align="center">
+  Building scalable, secure web solutions for large-scale government and enterprise platforms
+</p>
 
-<!-- Social media icons sections -->
+---
+
+<h2>About Me</h2>
+
+<p>
+I am a <strong>Full-Stack Web Developer</strong> with <strong>3+ years of professional experience</strong>
+designing and developing scalable web applications using the
+<strong>MERN stack, Next.js, and NestJS</strong>.
+</p>
+
+<p>
+I have contributed to <strong>key government platforms</strong> including
+<strong>UCC Uttarakhand</strong> and <strong>Apuni Sarkar</strong>,
+delivering <strong>100+ digital services</strong> used by
+<strong>lakhs of citizens</strong>. My work focuses on performance,
+maintainability, clean architecture, and real-world impact.
+</p>
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
 <div align="center">
-  <a href="https://twitter.com/rohitb1107" target="_blank">
-    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
-  </a>
-  <a href="https://linkedin.com/in/rohit-bagadi-11072003" target="_blank">
-    <img height="55" alt="Rohit Bagadi | LinkedIn" src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png" />
-  </a>
-  <a href="https://www.facebook.com/rohitbagadi11" target="_blank">
-    <img height="55" alt="Rohit Bagadi | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
-  </a>
-  <a href="https://www.instagram.com/the.rohitb.11" target="_blank">
-    <img height="55" alt="Rohit Bagadi | Instagram" src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
-  </a>
+
+<p align="center">
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,reactquery&perline=9" />
+</p>
+
+<p>
+<strong>Backend</strong><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=6" />
+<br/>
+</p>
+
+<p>
+<strong>Databases</strong><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=4" />
+<br/>
+</p>
+
+<p>
+<strong>DevOps & Cloud</strong><br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,aws&perline=6" />
+</p>
+
+<p>
+<strong>Tools</strong><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman&perline=6" />
+<br/>
+</p>
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+---
+
+<h2 align="center">Professional Experience Highlights</h2>
+
+<ul>
+  <li>Senior Full-Stack Developer on the <strong>Uniform Civil Code (UCC) Platform</strong> for the Uttarakhand Government</li>
+  <li>Delivered <strong>100+ digital government services</strong> for the Apuni Sarkar platform</li>
+  <li>Built modules for certificates, payments, officer dashboards, and secure workflows</li>
+  <li>Improved digital access for <strong>1+ lakh users</strong>, reducing physical office dependency</li>
+</ul>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <em>
+    Most of my professional work is in private and organization repositories.
+    Public GitHub statistics may not fully reflect my experience.
+  </em>
+</p>
 
 <div align="center">
-  <a href="https://app.daily.dev/rohitbagadi">
-    <img src="https://api.daily.dev/devcards/v2/H3WhBVsIDACWWNBe3ZoVg.png?type=wide&r=7dl" width="500" alt="Rohit Bagadi's Dev Card" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rohitbagadi&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbagadi&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
+    height="160"
+  />
 </div>
