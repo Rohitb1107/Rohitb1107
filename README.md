@@ -1,96 +1,80 @@
 <h1 align="center">Rohit Bagadi</h1>
 
 <p align="center">
-  Full-Stack Web Developer · 3+ Years Experience · MERN Stack
+  <strong>Full-Stack Developer | 4+ Years of Experience</strong>
 </p>
 
 <p align="center">
-  Building scalable, secure web solutions for large-scale government and enterprise platforms
+  Building scalable, secure, and high-performance web applications for government and enterprise platforms
 </p>
 
 ---
 
-<h2>About Me</h2>
+## About Me
 
-<p>
-I am a <strong>Full-Stack Web Developer</strong> with <strong>3+ years of professional experience</strong>
-designing and developing scalable web applications using the
-<strong>MERN stack, Next.js, and NestJS</strong>.
-</p>
+I am a **Full-Stack Developer with 4+ years of professional experience** specializing in **React, Next.js, Node.js, NestJS, TypeScript, MongoDB, and PostgreSQL**.
 
-<p>
-I have contributed to <strong>key government platforms</strong> including
-<strong>UCC Uttarakhand</strong> and <strong>Apuni Sarkar</strong>,
-delivering <strong>100+ digital services</strong> used by
-<strong>lakhs of citizens</strong>. My work focuses on performance,
-maintainability, clean architecture, and real-world impact.
-</p>
+I have contributed to major e-governance platforms, including the **Uniform Civil Code (UCC) Platform for the Government of Uttarakhand** and **Apuni Sarkar**. My work has supported **100+ digital government services** used by more than **100,000 citizens**.
+
+I focus on clean architecture, application security, performance, maintainability, and delivering reliable solutions with measurable real-world impact.
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+## Technical Skills
 
 <div align="center">
 
-<p align="center">
-  <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,reactquery&perline=9" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,mongodb,postgres,prisma,docker,aws,git&perline=12" alt="Technical skills" />
 
-<p>
-<strong>Backend</strong><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=6" />
-<br/>
-</p>
+<br/><br/>
 
-<p>
-<strong>Databases</strong><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=4" />
-<br/>
-</p>
-
-<p>
-<strong>DevOps & Cloud</strong><br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,aws&perline=6" />
-</p>
-
-<p>
-<strong>Tools</strong><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman&perline=6" />
-<br/>
-</p>
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Redux, React Query  
+**Backend:** Node.js, Express.js, NestJS, REST APIs, Authentication  
+**Database:** MongoDB, PostgreSQL, Prisma  
+**Tools & Cloud:** Git, GitHub, Docker, Linux, AWS, Postman
 
 </div>
 
 ---
 
-<h2 align="center">Professional Experience Highlights</h2>
+## Professional Highlights
 
-<ul>
-  <li>Senior Full-Stack Developer on the <strong>Uniform Civil Code (UCC) Platform</strong> for the Uttarakhand Government</li>
-  <li>Delivered <strong>100+ digital government services</strong> for the Apuni Sarkar platform</li>
-  <li>Built modules for certificates, payments, officer dashboards, and secure workflows</li>
-  <li>Improved digital access for <strong>1+ lakh users</strong>, reducing physical office dependency</li>
-</ul>
+- Contributed as a **Senior Full-Stack Developer** to the **Uniform Civil Code Platform** for the Government of Uttarakhand
+- Helped deliver **100+ citizen-facing digital services** through the **Apuni Sarkar** platform
+- Developed certificate, payment, officer dashboard, application processing, and approval workflow modules
+- Built solutions serving **100,000+ citizens**, reducing dependency on physical government offices
+- Designed scalable APIs and reusable frontend components for maintainable application development
+- Implemented authentication, role-based access control, validation, and secure workflows
+- Improved application performance and resolved critical production issues
+- Collaborated with developers, designers, analysts, and government stakeholders
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+## Core Strengths
+
+- Full-stack application development
+- Scalable frontend and backend architecture
+- REST API design and integration
+- Authentication and role-based authorization
+- Database design and optimization
+- Performance and security improvements
+- Production support and troubleshooting
+- Agile and cross-functional collaboration
+
+---
+
+## Connect With Me
+
+I am open to opportunities where I can build impactful products, solve challenging engineering problems, and contribute to a growth-focused team.
 
 <p align="center">
-  <em>
-    Most of my professional work is in private and organization repositories.
-    Public GitHub statistics may not fully reflect my experience.
-  </em>
+  <a href="https://github.com/Rohitb1107">
+    <img src="https://img.shields.io/badge/GitHub-Rohitb1107-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-bagadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bagadirohit11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rohitbagadi&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbagadi&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
-    height="160"
-  />
-</div>
