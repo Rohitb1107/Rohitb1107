@@ -50,19 +50,6 @@ I focus on clean architecture, application security, performance, maintainabilit
 
 ---
 
-## Core Strengths
-
-- Full-stack application development
-- Scalable frontend and backend architecture
-- REST API design and integration
-- Authentication and role-based authorization
-- Database design and optimization
-- Performance and security improvements
-- Production support and troubleshooting
-- Agile and cross-functional collaboration
-
----
-
 ## Connect With Me
 
 I am open to opportunities where I can build impactful products, solve challenging engineering problems, and contribute to a growth-focused team.
